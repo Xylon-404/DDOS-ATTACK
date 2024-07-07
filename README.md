@@ -1,4 +1,4 @@
-####DDOS--ATTACK
+##DDOS--ATTACK
 
 ## Requirements - 
 - Stable Internet Connection
@@ -19,7 +19,9 @@ pip install requests
 pip install pifiglet
 pip install socket
 git clone https://github.com/Xylon-404/DDOS-ATTACK.git
+ls
 cd DDOS
+ls
 python DDOS.py
 ```
 
