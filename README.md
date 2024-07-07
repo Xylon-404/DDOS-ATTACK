@@ -19,9 +19,7 @@ pip install requests
 pip install pifiglet
 pip install socket
 git clone https://github.com/Xylon-404/DDOS-ATTACK.git
-ls
-cd DDOS
-ls
+cd DDOS-ATTACK
 python DDOS.py
 ```
 
